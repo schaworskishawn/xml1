@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="Custom-EPG-Builder">
+<tv generator-info-name="Custom-EPG-Builder" source-info-name="8BitTV">
+
   <channel id="accnetwork.us">
     <display-name>ACC Network</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/ACC_Network_logo.svg"/>
@@ -19,4 +20,5 @@
     <title lang="en">ACC Postgame Show</title>
     <desc lang="en">Postgame highlights, interviews, and expert analysis of today’s games.</desc>
   </programme>
+
 </tv>
