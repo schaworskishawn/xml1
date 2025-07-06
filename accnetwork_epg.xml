@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Custom-EPG-Builder">
+  <channel id="accnetwork.us">
+    <display-name>ACC Network</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/5/5f/ACC_Network_logo.svg"/>
+  </channel>
+
+  <programme start="20250706180000 +0000" stop="20250706200000 +0000" channel="accnetwork.us">
+    <title lang="en">College GameDay</title>
+    <desc lang="en">Pre-game coverage and analysis of ACC football matchups.</desc>
+  </programme>
+
+  <programme start="20250706200000 +0000" stop="20250706230000 +0000" channel="accnetwork.us">
+    <title lang="en">ACC Football: Miami vs Clemson</title>
+    <desc lang="en">Live coverage of the ACC conference matchup between the Miami Hurricanes and Clemson Tigers.</desc>
+  </programme>
+
+  <programme start="20250706230000 +0000" stop="20250707010000 +0000" channel="accnetwork.us">
+    <title lang="en">ACC Postgame Show</title>
+    <desc lang="en">Postgame highlights, interviews, and expert analysis of today’s games.</desc>
+  </programme>
+</tv>
